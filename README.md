@@ -1,2 +1,2 @@
 # conflictgit
-NEW LINE
+NEW LINE AGAIN
