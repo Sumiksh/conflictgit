@@ -1,3 +1,4 @@
 # conflictgit
+Hey there
 Hello New line
-NEW LINE AGAIN
+NEW LINE AGAIN agAIN
